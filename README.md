@@ -13,4 +13,4 @@ git clone "https://github.com/sudarsankumar/glassmorphism.git"
 ```
 
 ## demo link
-[Password Generator for our requirements](https://sudarsankumar.github.io/glassmorphism/)
+[Glassmorphism effect](https://sudarsankumar.github.io/glassmorphism/)
